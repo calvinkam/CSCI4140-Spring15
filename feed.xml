@@ -3,8 +3,8 @@
 	<channel>
 		<title>CSCI4140 - Open-Source Software Project Development Spring 15</title>
 		<description>Calvin's Tutorial Page</description>
-		<link>http://www.example.com/some/subdir/https://github.com/calvinkam/CSCI4140-Spring15</link>
-		<atom:link href="http://www.example.com/some/subdir/https://github.com/calvinkam/CSCI4140-Spring15/feed.xml" rel="self" type="application/rss+xml" />
+		<link>/CSCI4140-Spring15https://github.com/calvinkam/CSCI4140-Spring15</link>
+		<atom:link href="/CSCI4140-Spring15https://github.com/calvinkam/CSCI4140-Spring15/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
 				<title>First Tutorial</title>
@@ -17,12 +17,12 @@
 &lt;/ol&gt;
 &lt;table&gt;
 	&lt;tr&gt;
-		&lt;td&gt; &lt;a href=&quot;http://www.example.com/some/subdir//assets/week11/4140-Week11-tut.pdf&quot; title=&quot;PDF&quot;&gt;Download Note&lt;/a&gt; &lt;/td&gt;
+		&lt;td&gt; &lt;a href=&quot;/CSCI4140-Spring15/assets/week11/4140-Week11-tut.pdf&quot; title=&quot;PDF&quot;&gt;Download Note&lt;/a&gt; &lt;/td&gt;
 	&lt;/tr&gt;
 &lt;/table&gt;</description>
 				<pubDate>Thu, 26 Mar 2015 03:45:40 +0800</pubDate>
-				<link>https://github.com/calvinkam/CSCI4140-Spring15http://www.example.com/some/subdir//2015/03/first-tutorial</link>
-				<guid isPermaLink="true">https://github.com/calvinkam/CSCI4140-Spring15http://www.example.com/some/subdir//2015/03/first-tutorial</guid>
+				<link>https://github.com/calvinkam/CSCI4140-Spring15/CSCI4140-Spring15/2015/03/first-tutorial</link>
+				<guid isPermaLink="true">https://github.com/calvinkam/CSCI4140-Spring15/CSCI4140-Spring15/2015/03/first-tutorial</guid>
 			</item>
 		
 	</channel>
