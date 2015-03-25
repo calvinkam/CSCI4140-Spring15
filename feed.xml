@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>CSCI4140 - Open-Source Software Project Development Spring 15</title>
+		<description>Calvin's Tutorial Page</description>
+		<link>http://www.example.com/some/subdir/https://github.com/calvinkam/CSCI4140-Spring15</link>
+		<atom:link href="http://www.example.com/some/subdir/https://github.com/calvinkam/CSCI4140-Spring15/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>First Tutorial</title>
+				<description>&lt;h2&gt;Week#11 (26 March 2015): Chrome Extension Introduction&lt;/h2&gt;
+&lt;p&gt;The tutorial covers:&lt;/p&gt;
+&lt;ol&gt;
+	&lt;li&gt;The basics of Chrome Extension&lt;/li&gt;
+	&lt;li&gt;Introduction of jQuery on &lt;span class=&quot;caps&quot;&gt;DOM&lt;/span&gt; Tree&lt;/li&gt;
+	&lt;li&gt;Sample Chrome Extension&lt;/li&gt;
+&lt;/ol&gt;
+&lt;table&gt;
+	&lt;tr&gt;
+		&lt;td&gt; &lt;a href=&quot;http://www.example.com/some/subdir//assets/week11/4140-Week11-tut.pdf&quot; title=&quot;PDF&quot;&gt;Download Note&lt;/a&gt; &lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;</description>
+				<pubDate>Thu, 26 Mar 2015 03:45:40 +0800</pubDate>
+				<link>https://github.com/calvinkam/CSCI4140-Spring15http://www.example.com/some/subdir//2015/03/first-tutorial</link>
+				<guid isPermaLink="true">https://github.com/calvinkam/CSCI4140-Spring15http://www.example.com/some/subdir//2015/03/first-tutorial</guid>
+			</item>
+		
+	</channel>
+</rss>
