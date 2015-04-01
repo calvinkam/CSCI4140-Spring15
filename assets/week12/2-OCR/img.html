@@ -1,0 +1,28 @@
+<html>
+
+<head>
+	<title>OCR Demonstration</title>
+	<script type="text/javascript" src="ocrad.js"></script>
+</head>
+
+<body>
+	<img src="tywong.png" alt="" id="tywong">
+
+	<script>
+		var image = new Image();
+		image.src = document.getElementById("tywong").src;
+		
+		var canvas = document.createElement('canvas');
+		canvas.height = image.height;
+		canvas.width = image.width;
+		var imgDraw = canvas.getContext('2d');
+		imgDraw.drawImage(image,0,0);
+		var string = OCRAD(imgDraw);
+		alert(string);
+
+	</script>
+
+
+</body>
+
+</html>
