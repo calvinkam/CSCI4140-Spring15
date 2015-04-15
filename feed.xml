@@ -7,6 +7,25 @@
 		<atom:link href="/CSCI4140-Spring15https://github.com/calvinkam/CSCI4140-Spring15/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Fourth Tutorial</title>
+				<description>&lt;h2&gt;Week#14 (16 April 2015): Extra Info For Assignment 3&lt;/h2&gt;
+&lt;p&gt;The tutorial covers:&lt;/p&gt;
+&lt;ol&gt;
+	&lt;li&gt;iReserve Page from Github to OpenShift.&lt;/li&gt;
+	&lt;li&gt;View Chrome LocalStorage for Debug.&lt;/li&gt;
+	&lt;li&gt;Error Handling.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;table&gt;
+	&lt;tr&gt;
+		&lt;td&gt; &lt;a href=&quot;/CSCI4140-Spring15/assets/week14/4140-Week14-Tut.pdf&quot;&gt;Download Note [&lt;span class=&quot;caps&quot;&gt;PDF&lt;/span&gt;]&lt;/a&gt; &lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;</description>
+				<pubDate>Thu, 16 Apr 2015 05:07:07 +0800</pubDate>
+				<link>https://github.com/calvinkam/CSCI4140-Spring15/CSCI4140-Spring15/2015/04/fourth-tutorial</link>
+				<guid isPermaLink="true">https://github.com/calvinkam/CSCI4140-Spring15/CSCI4140-Spring15/2015/04/fourth-tutorial</guid>
+			</item>
+		
+			<item>
 				<title>Third Tutorial</title>
 				<description>&lt;h2&gt;Week#13 (09 April 2015): More On Assignment 3&lt;/h2&gt;
 &lt;p&gt;The tutorial covers:&lt;/p&gt;
@@ -70,7 +89,7 @@
 &lt;/ol&gt;
 &lt;table&gt;
 	&lt;tr&gt;
-		&lt;td&gt; &lt;a href=&quot;/CSCI4140-Spring15/assets/week11/4140-Week11-tut.pdf&quot;&gt;Download Note [&lt;span class=&quot;caps&quot;&gt;PDF&lt;/span&gt;]&lt;/a&gt; &lt;/td&gt;
+		&lt;td&gt; &lt;a href=&quot;/CSCI4140-Spring15/assets/week11/4140-Week11-tut-2nd.pdf&quot;&gt;Download Note [&lt;span class=&quot;caps&quot;&gt;PDF&lt;/span&gt;] {With Errata}&lt;/a&gt; &lt;/td&gt;
 	&lt;/tr&gt;
 	&lt;tr&gt;
 		&lt;td&gt; &lt;a href=&quot;/CSCI4140-Spring15/assets/week11/4140-Week11-SampleExt.zip&quot;&gt;Download Sample Program [&lt;span class=&quot;caps&quot;&gt;ZIP&lt;/span&gt;]&lt;/a&gt;&lt;/td&gt;
